@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+    color: #1F2937;
+    background-color: #FAF7F2;
+  }
+
+  /* Ensure minimum touch target sizes for interactive elements */
+  button,
+  a,
+  [role="button"],
+  input[type="checkbox"],
+  input[type="radio"] {
+    min-width: 44px;
+    min-height: 44px;
+  }
+}
+
+@layer utilities {
+  .touch-target {
+    min-width: 44px;
+    min-height: 44px;
+  }
+}
