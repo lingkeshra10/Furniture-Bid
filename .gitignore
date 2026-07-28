@@ -1,0 +1,6 @@
+/.idea/
+/Back-End/.idea/
+/Front-End/.kiro/
+/Front-End/.vscode/
+/Front-End/node_modules
+/Back-End/target/
