@@ -4,3 +4,11 @@
 /Front-End/.vscode/
 /Front-End/node_modules
 /Back-End/target/
+Front-End/.kiro/specs/mock-api-service/tasks.md
+Front-End/.kiro/specs/mock-api-service/requirements.md
+Front-End/.kiro/specs/mock-api-service/design.md
+Front-End/.kiro/specs/mock-api-service/.config.kiro
+Front-End/.kiro/specs/furniture-bid-system/tasks.md
+Front-End/.kiro/specs/furniture-bid-system/requirements.md
+Front-End/.kiro/specs/furniture-bid-system/design.md
+Front-End/.kiro/specs/furniture-bid-system/.config.kiro
